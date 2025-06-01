@@ -1,16 +1,13 @@
-## Hi there 👋
+# Arnav Singh
 
-<!--
-**arnavSingh23/arnavSingh23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> “Good systems disappear into the background. Great ones never leave.”
 
-Here are some ideas to get you started:
+🧠 CS @ Boston University  
+⚙️ Backend Engineer & Systems Thinker  
+📡 TPM @ BU Spark | SWE Intern @ Fidelity Investments  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I build infrastructure that scales and systems people don’t have to think about. From LLM-powered social platforms to civic tech and distributed consensus — I work where reliability meets clarity.
+
+---
+
+Runs on coffee, clean APIs, and roundhouse kicks.
