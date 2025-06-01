@@ -1,4 +1,5 @@
 # Arnav Singh
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/arnav2x)
 
 > “Good systems disappear into the background. Great ones never leave.”
 
