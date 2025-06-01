@@ -8,7 +8,7 @@
 📡 TPM @ BU Spark | SWE Intern @ Fidelity Investments  
 📱 Founding Backend Engineer @ Mob (social discovery startup)
 
-I build infrastructure that scales and systems people don’t have to think about. From LLM-powered social platforms to civic tech and distributed consensus — I work where reliability meets clarity.
+I design and manage systems that power real-world impact — from civic tech platforms and living labs to research bots and social justice tools. I’ve led engineering across BU Spark! projects like Academico AI and the BU Community Service Center, while also building infrastructure from the ground up: matrix operation packages for genomic data, the backend for a social discovery app, and distributed consensus protocols. My focus is on systems that scale reliably and communicate clearly — whether it’s LLM-native applications or crash-tolerant algorithms.
 
 ---
 
